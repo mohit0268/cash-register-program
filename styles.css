@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: grid;
+    justify-content: center;
+    padding:1rem;
+    border:1px solid black;
+    width:50%;
+    min-height: 100%;
+}
+.heading{
+    font-size: 2rem;
+    text-align: center;
+    padding:2rem;
+
+}
+
+.submit{
+  
+    width:100px;
+    justify-content: center;
+
+}
